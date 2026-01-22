@@ -1,0 +1,29 @@
+* {
+    margin: 0px;
+    padding: 0px;
+}
+
+body {
+    background-image: url(/css/images/mahi.avif);
+    /* height: auto;
+    width: 300px; */
+    background-repeat: no-repeat;
+
+}
+
+.mahi {
+    color: rgb(8, 4, 1);
+    padding: 20px;
+    margin: 20px;
+    text-align: center;
+    border: 20px solid goldenrod;
+    box-sizing: border-box;
+    border-radius: 10px;
+    background-color: aliceblue;
+    border-top: 20px solid rgb(182, 133, 8);
+    border-left: 20px solid rgb(167, 123, 14);
+    border-right: 20px solid #a57909;
+    border-bottom: 20px solid rgb(145, 106, 10);
+    box-shadow: 10px 15px 25px 5px rgb(29, 29, 29);
+    /* border-width: 10px; */
+}

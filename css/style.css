@@ -1,0 +1,100 @@
+img {
+    width: 100px;
+    padding: 10px;
+    margin: 10px;
+}
+
+body {
+    background-image: url(/css/images/back2.jpg);
+    /* width: 1000px;
+    height: 5000px; */
+    /* margin: 20px;
+    padding: 20px;
+    height: 0%; */
+    background-repeat: no-repeat;
+}
+
+.first {
+    color: rgb(211, 20, 20);
+    background-color: rgb(247, 200, 48);
+    border-radius: 5px;
+    box-sizing: border-box;
+    padding: 10px;
+    margin: 10px;
+    text-align: center;
+    box-shadow: 10px 15px 25px 5px rgb(80, 79, 79);
+    /* font-display: auto; */
+    font-size: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 800;
+}
+
+.a {
+    color: crimson;
+    font-size: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 800;
+    padding: 15px;
+    padding-top: 20px;
+    margin-top: 20px;
+    margin: 15px;
+    border: 10px solid rgb(129, 20, 75);
+    background-color: rgb(204, 135, 8);
+    box-sizing: border-box;
+    box-shadow: 10px 15px 25px 5px rgb(53, 52, 52);
+    text-align: top center;
+}
+
+.b {
+    color: crimson;
+    font-size: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 800;
+    padding: 15px;
+    padding-top: 20px;
+    margin-top: 20px;
+    margin: 15px;
+    border: 10px solid rgb(129, 20, 75);
+    background-color: rgb(204, 135, 8);
+    box-sizing: border-box;
+    box-shadow: 10px 15px 25px 5px rgb(43, 42, 42);
+}
+
+.c {
+    color: crimson;
+    font-size: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 800;
+    padding: 15px;
+    padding-top: 20px;
+    margin-top: 20px;
+    margin: 15px;
+    border: 10px solid rgb(129, 20, 75);
+    background-color: rgb(204, 135, 8);
+    box-sizing: border-box;
+    box-shadow: 10px 15px 25px 5px rgb(94, 93, 93);
+}
+
+.d {
+    color: crimson;
+    font-size: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 800;
+    padding: 15px;
+    padding-top: 20px;
+    margin-top: 20px;
+    margin: 15px;
+    border: 10px solid rgb(129, 20, 75);
+    background-color: rgb(204, 135, 8);
+    box-sizing: border-box;
+    box-shadow: 10px 15px 25px 5px rgb(94, 93, 93);
+}
+
+button {
+    text-align: center;
+    padding: 10px;
+    margin: 10px;
+    color: chocolate;
+    background-color: rgb(221, 167, 17);
+
+}
